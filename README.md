@@ -1,1 +1,2 @@
-# python-script-selenium
+# LinkedIn vs Glassdoor - Web Crawler
+### This project involves building a web crawler using Python and Selenium to extract job details from LinkedIn and Glassdoor based on specific keywords. The crawler automates the browsing of job listings, retrieves information such as job title, company name, location, salary range, and job description, and stores the data in a structured format. The goal is to create an efficient and customizable tool for analyzing job market trends and insights, helping users to make data-driven decisions for career planning and recruitment.
